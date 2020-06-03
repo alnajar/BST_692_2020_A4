@@ -2,7 +2,7 @@
 BST 692 Summer 2020 - Assignment 4
 
 # Goal
-Tidy up the breast cancer data set using the new packages you've just learned, `janitor` & `DataExplorer`
+Explore the breast cancer data set using the new packages you've just learned, `janitor` & `DataExplorer`
 
 # The Task
 + Give an overall summary of the variables
